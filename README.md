@@ -1,4 +1,4 @@
-# Trabalho final (2024-1) - controle de sistemas de carro
+# Trabalho final (2024-1) - Nota 9.7
 
 Trabalho final da disciplina de Fundamentos de Sistemas Embarcados (2024/1)
 
